@@ -1,0 +1,13 @@
+1736060995253	geckodriver	INFO	Listening on 127.0.0.1:49868
+1736060995717	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/2c/f28j6x4d22j13vgjbm7xwp400000gn/T/rust_mozprofileybjK2l"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1736060996254	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1736060996948	Marionette	INFO	Listening on port 49886
+Read port: 49886
+WebDriver BiDi listening on ws://127.0.0.1:49869
+1736060997045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 182: TypeError: this._element is null
+1736061002033	Marionette	INFO	Stopped listening on port 49886
